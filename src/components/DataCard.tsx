@@ -1,4 +1,4 @@
-import { Draggable } from '@hello-pangea/dnd'
+import { Draggable } from '@hello-pangea/dnd';
 
 interface DataCardProps {
     id: string

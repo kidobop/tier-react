@@ -14,7 +14,7 @@ export function useTierState() {
             data: [
                 {
                     id: '1',
-                    imageUrl: 'https://i.ibb.co/DRd2Fg4/image.png',
+                    imageUrl: 'https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Fplaylists%2Fsquare_covers%2F000%2F459%2F856%2Ffull%2Fjotai.png&w=256&q=75',
                 },
                 {
                     id: '2',
